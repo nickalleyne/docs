@@ -92,3 +92,5 @@ $ docker stop my_actual_budget && docker container rm my_actual_budget && docker
 ## Test connection within local network
 
 On another PC within the local network connect to http://_serverIP_:_chosenPort_
+
+This will verify if you are able to connect, before you are able to create your first budget, you will be required to complete [Activating HTTPS](https://actualbudget.org/docs/config/https) steps.
